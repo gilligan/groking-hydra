@@ -2,7 +2,13 @@
 
 The other day I finally decided to get a hydra server up and running at work. It took me a full day to reach a point where I could evaluate a jobset with `hello`. After some frustration and venting on Twitter I wanted to do something productive, so I created this repository.
 
-The idea is to use the github issue tracker to tackle open questions about deploying, running and configuring hydra. Ideally newbies and novice users raise questions and those with more experience can help to clarify.
+## The plan ...
+
+The idea is to use the github issue tracker to tackle open questions about deploying, running and configuring hydra. Ideally newbies and novice users open issues to _raise questions_ and those with more experience can help to clarify those questions and get the issues closed.
+
+**TL;DR** knowledge transfer through an issue tracker. public, searchable, simple.
+
+Of course the knowledge collected in these issues is not meant to stay in the issue tracker forever. See the FAQ below for more information on that.
 
 ## FAQ
 
@@ -24,4 +30,4 @@ The idea is to use the github issue tracker to tackle open questions about deplo
   
 #### 5. What happens to the resolved issues ?
 
-  We could start submitting bits and pieces to the hydra section over at the [nixos wiki](https://nixos.wiki/wiki/Hydra) - At some point we should of course also begin to overhaul the hydra manual itself but this will require some serious thought and I believe we should take this whole thing step by step. I am of course open for suggestions at any time.
+  We could start submitting bits and pieces to the hydra section over at the [nixos wiki](https://nixos.wiki/wiki/Hydra) - At some point we should of course also begin to overhaul the hydra manual itself but this will require some serious thought and I believe we should take this whole thing step by step. I am of course open for suggestions at any time. **Before making up to much plans and details I want to see if this format works at all!**
